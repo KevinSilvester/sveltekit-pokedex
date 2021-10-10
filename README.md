@@ -1,4 +1,4 @@
-# create-svelte
+# SvelteKti Pokedex
 
 #### This is a simple pokedex app made following the SveletKit crash course video by James Q. Quick.
 
@@ -12,4 +12,4 @@ or
 yarn build
 ```
 
->### Crash course source: https://youtu.be/UU7MgYIbtAk
+>#### Crash course source: https://youtu.be/UU7MgYIbtAk
