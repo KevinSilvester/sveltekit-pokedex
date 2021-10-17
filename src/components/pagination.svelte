@@ -5,32 +5,26 @@
 		{
 			offset: 0,
 			end: 200,
-			wholeList: false
 		},
 		{
 			offset: 200,
 			end: 200,
-			wholeList: false
 		},
 		{
 			offset: 400,
 			end: 200,
-			wholeList: false
 		},
 		{
 			offset: 600,
 			end: 200,
-			wholeList: false
 		},
 		{
 			offset: 800,
 			end: 200,
-			wholeList: false
 		},
 		{
 			offset: 1000,
 			end: 118,
-			wholeList: false
 		}
 	];
 </script>
@@ -45,7 +39,7 @@
 				offset.set(fetch_items.offset);
 				end.set(fetch_items.end);
 				wholeList.set(false);
-				fetchPokemon(fetch_items.offset, fetch_items.end, fetch_items.wholeList);
+				fetchPokemon(fetch_items.offset, fetch_items.end, false);
 			}}
 		>
 			{i + 1}
