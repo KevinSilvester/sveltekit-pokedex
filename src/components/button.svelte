@@ -59,19 +59,3 @@
 		</button>
 	{/if}
 {/if}
-
-<!-- <button 
-   on:click={() => tag === 'next' ? nextClicked = true : prevClicked = true}
-   bind:this={prevButton}
-   class="{ tag } bg-gray-300 hover:bg-gray-400 active:bg-gray-500 duration-300 outline-none hover:text-gray-50 active:text-white disabled:opacity-40 disabled:hover:bg-gray-300 disabled:active:bg-gray-300 disabled:hover:text-black disabled:active:text-black">
-      <slot name="icon"></slot>
-</button> -->
-ctive:text-black">
-      <slot name="icon"></slot>
-</button> -->ctive:text-black">
-      <slot name="icon"></slot>
-</button> -->ctive:text-black">
-      <slot name="icon"></slot>
-</button> -->ctive:text-black">
-      <slot name="icon"></slot>
-</button> -->
