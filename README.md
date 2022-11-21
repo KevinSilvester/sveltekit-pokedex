@@ -5,11 +5,15 @@
 #### To build the project run:
 
 ```bash
+npm i
 npm run build
 ```
+
 or
+
 ```bash
+yarn
 yarn build
 ```
 
->#### Crash course source: https://youtu.be/UU7MgYIbtAk
+> #### Crash course source: https://youtu.be/UU7MgYIbtAk
